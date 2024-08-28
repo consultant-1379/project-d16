@@ -1,0 +1,6 @@
+from node:16.17.1-alpine3.15
+COPY Git-UI GIT-UI
+WORKDIR Git-UI
+RUN npm ci --only=production && npm cache clean --force
+EXPOSE 8080
+CMD ["npm","start"]

@@ -1,0 +1,29 @@
+version: '3.3'
+services:
+  mongo:
+    image: mongo:4.4.17
+    container_name: mongo
+    hostname: mongo
+    restart: unless-stopped
+    ports:
+      - 27017:27017
+    networks:
+      - main-network
+    command: ["--bind_ip", "0.0.0.0"]
+
+  web:
+    build: .
+    ports:
+      - 8000:8000
+      - 8080:8080
+    depends_on:
+      - mongo
+    networks:
+      - main-network
+
+  ui:
+
+networks:
+  main-network:
+    external:
+      name: new-network

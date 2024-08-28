@@ -1,0 +1,38 @@
+Date,Contributor Name,Contributor Email,Lines Added,Lines Removed,Files Committed,Hash
+2022-09-30 11:31:11+01:00,Lleno Anya,lleno.a.anya@ericsson.com,1,0,1,1f2dc3551ebcbf33e6fb3086d908e65e5a83d30c
+2022-09-30 11:48:53+01:00,Saoirse,saoirsenimhaolain@gmail.com,1,0,1,8ae2cbb976cebbdfe75eb98ae9f85e9ee1c007cd
+2022-09-30 11:52:26+01:00,estekit,kitara.stewart@ericsson.com,1,0,1,49e3312bbbfdbf27297af70820db0dcbc04ca1d2
+2022-09-30 12:12:28+01:00,estekit,kitara.stewart@ericsson.com,2,1,1,f9e3a71321b27a2fdbd42bcb39ae973ef0facb88
+2022-09-30 12:14:00+01:00,estekit,kitara.stewart@ericsson.com,0,0,0,ee544b71317840da57a39ee1449cc8c2cdfe62e4
+2022-09-30 12:14:50+01:00,estekit,kitara.stewart@ericsson.com,1,1,1,655156387765e4b183ff4b9488b4f03572dc0aa3
+2022-09-30 12:15:36+01:00,estekit,kitara.stewart@ericsson.com,2,1,1,9954ea53ba53e2646c6afd10a9da22a2d4ef6f09
+2022-09-30 12:58:36+01:00,Sean Beirne,sean.beirne@ericsson.com,2,1,1,b51e7b305563bb2de5ec9cf8e04148fa619da2db
+2022-10-03 10:46:33+01:00,Lleno Anya,lleno.a.anya@ericsson.com,607,0,9,b372b1b258b647a98b0907af4d3f1e5a3771c5a1
+2022-10-03 12:54:03+01:00,Kitara Stewart,kitara.stewart@ericsson.com,241,0,4,3e47eaeee8128f5af3019008c255012ef0434e16
+2022-10-03 13:52:32+01:00,Kitara Stewart,kitara.stewart@ericsson.com,213,21,5,d1193c667c33bc92a389e9c13c781e917e552f68
+2022-10-04 15:33:20+01:00,Sean Beirne,sean.beirne@ericsson.com,14,7,3,14e170fdfdb2b1790f069e853c7de536abdabd6c
+2022-10-04 15:59:16+01:00,Sean Beirne,sean.beirne@ericsson.com,13,0,1,b45434cd18896e4ff7a38c21ea4c1674fbddaf42
+2022-10-04 16:06:35+01:00,Saoirse,saoirse.mullen@ericsson.com,50,27,2,40090018ae07166860a6a334f780ca1c70145a0c
+2022-10-04 16:11:30+01:00,Saoirse,saoirse.mullen@ericsson.com,15,14,2,f7e76ebb745900a1c230117e282c8cd205f3d84c
+2022-10-05 10:58:42+02:00,Kitara Stewart,kitara.stewart@ericsson.com,145,0,4,006e1eafbe0c9d1ac8bf0ea68a21e5f078afac2f
+2022-10-05 12:01:50+02:00,Kitara Stewart,kitara.stewart@ericsson.com,34,9,2,e0f8d85f656320f191e666b99d67acd269bdd1d8
+2022-10-05 14:55:23+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,50,0,1,238f930a389ccbe8268abfdd770abf4e9cdd2005
+2022-10-05 15:02:05+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,36,3,2,aaa91c139fd3642975b6836e77492ea69c5b6528
+2022-10-05 15:32:12+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,3,36,2,cb21769e8bae685cb55b3f485468979d1943be07
+2022-10-05 15:00:33+01:00,Lleno Anya,lleno.a.anya@ericsson.com,403,176,16,36cdf24ed0bfb479385f23b9624f06705112b72d
+2022-10-05 15:43:00+01:00,Sean Beirne,sean.beirne@ericsson.com,1916,16,37,d62b7f9c9bc7f7bac368be659d4551d3b6147a6c
+2022-10-05 17:21:37+01:00,Kitara Stewart,kitara.stewart@ericsson.com,1822,25,41,6fce84f38d725c3a2b471a5a3d702d93ac17ca8a
+2022-10-07 19:44:24+01:00,Kitara Stewart,kitara.stewart@ericsson.com,87,15,5,c62aa6dcb51c3fd79887841bd99b1f0bfa36a8f5
+2022-10-04 15:33:20+01:00,Sean Beirne,sean.beirne@ericsson.com,14,7,3,14e170fdfdb2b1790f069e853c7de536abdabd6c
+2022-10-04 15:59:16+01:00,Sean Beirne,sean.beirne@ericsson.com,13,0,1,b45434cd18896e4ff7a38c21ea4c1674fbddaf42
+2022-10-04 16:06:35+01:00,Saoirse,saoirse.mullen@ericsson.com,50,27,2,40090018ae07166860a6a334f780ca1c70145a0c
+2022-10-04 16:11:30+01:00,Saoirse,saoirse.mullen@ericsson.com,15,14,2,f7e76ebb745900a1c230117e282c8cd205f3d84c
+2022-10-05 10:58:42+02:00,Kitara Stewart,kitara.stewart@ericsson.com,145,0,4,006e1eafbe0c9d1ac8bf0ea68a21e5f078afac2f
+2022-10-05 12:01:50+02:00,Kitara Stewart,kitara.stewart@ericsson.com,34,9,2,e0f8d85f656320f191e666b99d67acd269bdd1d8
+2022-10-05 14:55:23+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,50,0,1,238f930a389ccbe8268abfdd770abf4e9cdd2005
+2022-10-05 15:02:05+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,36,3,2,aaa91c139fd3642975b6836e77492ea69c5b6528
+2022-10-05 15:32:12+02:00,Lleno Anya A,lleno.a.anya@ericsson.com,3,36,2,cb21769e8bae685cb55b3f485468979d1943be07
+2022-10-05 15:00:33+01:00,Lleno Anya,lleno.a.anya@ericsson.com,403,176,16,36cdf24ed0bfb479385f23b9624f06705112b72d
+2022-10-05 15:43:00+01:00,Sean Beirne,sean.beirne@ericsson.com,1916,16,37,d62b7f9c9bc7f7bac368be659d4551d3b6147a6c
+2022-10-05 17:21:37+01:00,Kitara Stewart,kitara.stewart@ericsson.com,1822,25,41,6fce84f38d725c3a2b471a5a3d702d93ac17ca8a
+2022-10-07 19:44:24+01:00,Kitara Stewart,kitara.stewart@ericsson.com,87,15,5,c62aa6dcb51c3fd79887841bd99b1f0bfa36a8f5
